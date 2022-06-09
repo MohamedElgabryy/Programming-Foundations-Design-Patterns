@@ -26,3 +26,4 @@
 [Course-Notion-link](https://www.notion.so/06-Programming-Foundations-Design-Patterns-56f6ecab4da94ce58ed02b396263e9aa)
 
 [Preview Certificate](https://www.linkedin.com/learning/certificates/d3ae90fadc9497e860f7fe09373bf2406e37df409939940cf53a5786933eca3e?trk=share_certificate)
+.....
